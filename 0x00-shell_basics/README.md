@@ -1,4 +1,4 @@
-‘This command will bring you to the home : cd ~’
+This command will bring you to the home : cd ~’
 
 This command will list files in long format: ls -l
 
@@ -32,7 +32,7 @@ This command creates a script that creates the directories welcome/to/school: mk
 
 This command lists all the files and directories of the current directory, separated by commas
 
-This command creates a magic file school.mgc that can be used with the command file to detect School data files: 0 string SHOOL School data ;! :
+This command creates a magic file school.mgc that can be used with the command file to detect School data files: 0 string SCHOOL School data ;! :
 
 mime School; file -C -m school.mgc
 
@@ -41,3 +41,4 @@ git add . added all changes
 git commit -m to commit changes made
 
 git push command changes to be pushed to git user interface
+
