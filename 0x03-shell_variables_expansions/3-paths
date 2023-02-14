@@ -1,2 +1,2 @@
 #!/bin/bash
-./count_directories.sh
+echo "${#DIRS[@]}"
